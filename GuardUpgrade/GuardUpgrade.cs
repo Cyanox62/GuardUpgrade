@@ -10,8 +10,8 @@ namespace GuardUpgrade
     [PluginDetails(
     author = "Cyanox",
     name = "Guard Upgrade",
-    description = "Upgrades gaurds to MTF cadets",
-    id = "cyan.gaurd.upgrade",
+    description = "Upgrades guards to MTF cadets",
+    id = "cyan.guard.upgrade",
     version = "0.1",
     SmodMajor = 3,
     SmodMinor = 0,
