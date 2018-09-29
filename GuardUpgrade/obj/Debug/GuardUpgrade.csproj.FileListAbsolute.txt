@@ -1,0 +1,8 @@
+C:\Users\Infer\source\repos\GuardUpgrade\GuardUpgrade\bin\Debug\GuardUpgrade.dll
+C:\Users\Infer\source\repos\GuardUpgrade\GuardUpgrade\bin\Debug\GuardUpgrade.pdb
+C:\Users\Infer\source\repos\GuardUpgrade\GuardUpgrade\bin\Debug\Smod2.dll
+C:\Users\Infer\source\repos\GuardUpgrade\GuardUpgrade\obj\Debug\GuardUpgrade.csprojAssemblyReference.cache
+C:\Users\Infer\source\repos\GuardUpgrade\GuardUpgrade\obj\Debug\GuardUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\Infer\source\repos\GuardUpgrade\GuardUpgrade\obj\Debug\GuardUpgrade.csproj.CopyComplete
+C:\Users\Infer\source\repos\GuardUpgrade\GuardUpgrade\obj\Debug\GuardUpgrade.dll
+C:\Users\Infer\source\repos\GuardUpgrade\GuardUpgrade\obj\Debug\GuardUpgrade.pdb
